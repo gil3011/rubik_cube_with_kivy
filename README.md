@@ -49,9 +49,7 @@ Make sure you have the following installed:
 5. Use the "Undo" button to revert the last move.
 
 ## Screenshots
-
-![Screenshot 1](<img width="527" height="830" alt="image" src="https://github.com/user-attachments/assets/95065f37-b71f-43a5-b7a5-ae60deb9cb63" />)
-![Screenshot 2](<img width="531" height="830" alt="image" src="https://github.com/user-attachments/assets/c7f514e8-4247-425e-82b4-18fdebb70d15" />)
-![Screenshot 3](<img width="527" height="830" alt="image" src="https://github.com/user-attachments/assets/4fbaecab-3811-4c9b-8b65-d64b39e29435" />
-)
+<img width="530" src="https://github.com/user-attachments/assets/95065f37-b71f-43a5-b7a5-ae60deb9cb63" />
+<img width="530" src="https://github.com/user-attachments/assets/c7f514e8-4247-425e-82b4-18fdebb70d15" />
+<img width="530" src="https://github.com/user-attachments/assets/4fbaecab-3811-4c9b-8b65-d64b39e29435" />
 
